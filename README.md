@@ -21,7 +21,7 @@ I bridge the gap between robust backend systems and engaging interactive experie
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### Tech Stack & Expertise
 
 #### **Game Development & 3D**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
